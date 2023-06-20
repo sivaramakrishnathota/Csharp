@@ -1,0 +1,17 @@
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\BusinessModel.dll
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\BusinessModel.pdb
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Siva Thota\Desktop\VS\ConsoleApp\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
