@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBIyEEvjVPlKemdg29U0daDwtRHlcs760WqD/SQa9YQf/FCUY4kh+WeMeQfBNKKxKrbStEk5hfbq2JMe5+LIeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siva Thota\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Siva Thota\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
