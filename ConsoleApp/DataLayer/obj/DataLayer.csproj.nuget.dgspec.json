@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj": {
+    "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
+        "projectUniqueName": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
         "projectName": "BusinessModel",
-        "projectPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
+        "projectPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
         "packagesPath": "C:\\Users\\Siva Thota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\obj\\",
+        "outputPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Siva Thota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Siva Thota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Siva Thota\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj": {
-                "projectPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj"
+              "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj": {
+                "projectPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj"
               },
-              "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\DataModel.csproj": {
-                "projectPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\DataModel.csproj"
+              "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\DataModel.csproj": {
+                "projectPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\DataModel.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\DataModel.csproj": {
+    "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\DataModel.csproj",
+        "projectUniqueName": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\DataModel.csproj",
         "projectName": "DataModel",
-        "projectPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\DataModel.csproj",
+        "projectPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\DataModel.csproj",
         "packagesPath": "C:\\Users\\Siva Thota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\DataModel\\obj\\",
+        "outputPath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Siva Thota\\AppData\\Roaming\\NuGet\\NuGet.Config",

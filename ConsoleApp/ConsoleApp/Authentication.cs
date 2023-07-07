@@ -106,6 +106,10 @@ namespace ConsoleApp
                 InputOutput.Display("invalid login");
             }
         }
+
+        /// <summary>
+        /// this method has the data from business layer.
+        /// </summary>
         public void GetData()
         {
             User userObj = new User();

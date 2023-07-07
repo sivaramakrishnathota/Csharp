@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7NCJPCpUTwYfwpWdptPsRapKRlOKxs0mOZjvz9Dsqn1xnBjZddGVG61uxVTFLVjW3KOWrooAkuiX/62J7hJkg==",
+  "dgSpecHash": "hwR5QZvcOxmcTxmt0x7Hs2GPz2ORFm3kOXOvfJqlbv0pNmA62qMbrB5cA4MOD9qv+Z1ozm5tmmYr5Ndhvr2gbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
+  "projectFilePath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\BusinessModel\\BusinessModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Siva Thota\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Siva Thota\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

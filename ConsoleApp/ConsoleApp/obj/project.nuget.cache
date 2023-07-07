@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LDQvMWwhyMCfVRCcIlXw8m3sieeZ3Rm8z9nnWthC/Ulth7diT3zMFd81wWxtD31itBgcunULnEXriczFt67QdA==",
+  "dgSpecHash": "Y8T86whMSve7Oe3qcKpyruf/GdZoudH7YQhRKASTSflxLTr+Pra6gEQ/EsJLhxPx8f0t3AijQzb0p4dI17D6Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Siva Thota\\Desktop\\VS\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Siva Thota\\Gitrepo\\Csharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Siva Thota\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Siva Thota\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

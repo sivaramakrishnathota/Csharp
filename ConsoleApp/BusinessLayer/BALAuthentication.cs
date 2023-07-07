@@ -6,6 +6,12 @@ namespace BusinessLayer
 {
     internal class BALAuthentication : IBAL
     {
+
+        /// <summary>
+        /// this method gets the data from datalyer and it sends to the presentation layer.
+        /// </summary>
+        /// <param name="userName"></param>
+        /// <returns></returns>
         public User GetData(string userName)
         {
             DALFactory dalFactoryObj = new DALFactory();

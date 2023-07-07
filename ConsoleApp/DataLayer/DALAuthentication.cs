@@ -18,6 +18,7 @@ namespace DataLayer
         /// <returns></returns>
         public void RegisteredData(User objUser)
         {
+            //In storage(lsit) the userdatamodel data is stored.
             DataSource.storage.Add(new UserDataModel { userName = objUser.userName, userPassword = objUser.userPassword, userMobilenumber = objUser.userMobilenumber, userEmail = objUser.userEmail });
         }
 
@@ -76,6 +77,12 @@ namespace DataLayer
             }
             return false;
         }
+
+        /// <summary>
+        /// this method send the data to bussiness layer.
+        /// </summary>
+        /// <param name="userName"></param>
+        /// <returns></returns>
         public User GetData(string userName)
         {
             UserDataModel user = DataSource.storage.Find(user => user.userName == userName);
