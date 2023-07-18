@@ -8,8 +8,7 @@
         /// <returns></returns>S
         public IBAL GetBALAuthenticationObj()
         {
-            IBAL ibalObj = new BALAuthentication();
-            return ibalObj;
+            return new BALAuthentication(); 
         }
 
         /// <summary>
@@ -18,8 +17,7 @@
         /// <returns></returns>
         public IValidation GetBALValidationObj()
         {
-            IValidation validationObj = new BALValidations();
-            return validationObj;
+            return new BALValidations();
         }
     }
 }
